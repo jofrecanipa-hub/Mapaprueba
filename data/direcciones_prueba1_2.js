@@ -1,0 +1,1 @@
+var json_direcciones_prueba1_2 = {"type":"FeatureCollection","name":"direcciones_prueba1_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"CURSO":"7","SEXO":"F","X":"364417","Y":"7957165"},"geometry":{"type":"Point","coordinates":[-70.284114606837051,-18.471516410421909]}}]}
